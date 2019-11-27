@@ -15,7 +15,7 @@
 			<version>3.0 </version>
 			<configuration>
                 <fork>true</fork>
-                <executable>E:\java\bin\javac.exe</executable>
+                <executable>C:\Program Files (x86)\Java\jre1.8.0_231\bin\javac.exe</executable>
             </configuration>
 		</plugin>
 		<plugin>
